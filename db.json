@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      "title": "My First Blog",
-      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, fugiat.Why do we use it?\nIt is a long established fact that a reader will be distracted ",
+      "title": "CIST!!!!",
+      "body": "Bohuzel https://my-json-server.typicode.com poskytuje pouze GET",
       "author": "mario",
       "id": 1
     },
@@ -13,13 +13,13 @@
       "id": 2
     },
     {
-      "title": "Blog 2021 REACT",
+      "title": "Blog 2022 REACT",
       "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis illo delectus repudiandae voluptatum reiciendis error voluptatibus molestiae accusantium quae consequuntur!",
       "author": "yoshi",
       "id": 3
     },
     {
-      "title": "CIST!!!!",
+      "title": "brsssas",
       "body": "Zkouska blogu",
       "author": "yoshi",
       "id": 4
